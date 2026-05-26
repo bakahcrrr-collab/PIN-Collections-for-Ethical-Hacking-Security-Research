@@ -1,6 +1,6 @@
-**Here's the improved and professionally updated `README.md`:**
 
-```markdown
+
+
 # 🔐 PIN Collections for Ethical Hacking & Security Research
 
 > **Educational and authorized security testing purposes only.**  
@@ -38,7 +38,6 @@ Always follow your local laws and obtain proper authorization before testing any
 
 ## 📂 File Structure
 
-```bash
 pins/
 ├── 4digit.txt
 ├── 5digit.txt
@@ -53,7 +52,7 @@ pins/
 ├── 14digit.txt
 ├── 15digit.txt
 └── 16digit.txt
-```
+
 
 ---
 
